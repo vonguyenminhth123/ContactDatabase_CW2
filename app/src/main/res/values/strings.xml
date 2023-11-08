@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab5ContactDatabase</string>
+    <string-array name="spinner_entry">
+        <item>@drawable/mark</item>
+        <item>@drawable/renjun</item>
+        <item>@drawable/jeno</item>
+        <item>@drawable/haechan</item>
+        <item>@drawable/jaemin</item>
+        <item>@drawable/chenle</item>
+        <item>@drawable/jisung</item>
+    </string-array>
+</resources>
